@@ -1,0 +1,6 @@
+com\mycompany\dogosobregon\DogosObregon.class
+Entities\Cliente.class
+Entities\Hotdog.class
+Entities\Pedido.class
+Entities\MetodoPago.class
+Entities\PedidoDetalle.class
