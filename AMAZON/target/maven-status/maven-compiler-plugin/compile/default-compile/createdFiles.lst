@@ -1,0 +1,7 @@
+entidades\ClienteCorreo.class
+org\itson\amazonbd\AmazonBD.class
+entidades\ClienteTelefono.class
+entidades\PedidoProducto.class
+entidades\Producto.class
+entidades\Cliente.class
+entidades\Pedido.class
