@@ -1,0 +1,16 @@
+com\mycompany\dogosobregon\DogosObregon.class
+DAO\IPedidoDAO.class
+DAO\PedidoDetalleDAO.class
+Entities\Cliente.class
+util\JpaUtil.class
+DAO\IClienteDAO.class
+Entities\PedidoDetalle.class
+DAO\HotDogDAO.class
+DAO\IPedidoDetalleDAO.class
+com\mycompany\dogosobregon\MainPruebas.class
+DAO\PedidoDAO.class
+DAO\IHotDogDAO.class
+Entities\Hotdog.class
+Entities\Pedido.class
+Entities\MetodoPago.class
+DAO\ClienteDAO.class
